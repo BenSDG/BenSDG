@@ -1,4 +1,4 @@
-Polymath: scientist and artist
+engineer: maker and hacker
 SDG
 <!---
 BenSDG/BenSDG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
